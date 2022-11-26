@@ -1,4 +1,5 @@
-### Hi 👋, I'm Eugene Shumilin - full-stack software developer with a 6 years background in professional eSports. I love creating useful things that help in everyday life.
+### Hey, I'm Eugene Shumilin   
+A full-stack software developer with a 6 years background in professional eSports. I love creating useful things that help in everyday life.
 
 ### Get In Touch
 <a href="mailto:neirea@ukr.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugene-shumilin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.neirea.com/"> <img src="https://img.shields.io/badge/portfolio-2A2A2A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
